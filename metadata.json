@@ -1,0 +1,7 @@
+{
+  "name": "CardScan Pro",
+  "description": "Professional business card scanner with AI-powered data extraction, card management, and subscription features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
